@@ -1,2 +1,4 @@
 heloow
-this this
+this this git fetch and git merge
+
+hellow word git pull
